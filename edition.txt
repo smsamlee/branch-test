@@ -3,5 +3,5 @@ second edition
 third edition
 fourth edition
 issue resolved
-hotfix my solution
+Hot fix team's solution
 
